@@ -1,6 +1,7 @@
 # FAQ
 
-**What is Focus for?**
+**What is Focus for?**  
+
 Focus allows you to build your own search tools using a genuine web index. It’s an update of something that we previously called Personal Search, [first released in 2006](https://web.archive.org/web/20060220233451/http://www.mojeek.com/mps). 
 
 From the easy-to-use interface you can:
@@ -13,9 +14,12 @@ From the easy-to-use interface you can:
 - share your Mojeek Focus creations with others.
 - use and edit a set of templates provided by both the Mojeek team and other users through this repo.
 
-**How do I submit without a Github account?** Github and other similar developer platforms can be very useful for this kind of collaborative work, but we understand that they are not for everyone. If you've created something you really think would be better of shared with others, please get in contact via the [contact page](https://www.mojeek.com/about/contact) or [Community](https://community.mojeek.com/).
+**How do I submit without a Github account?**  
 
-**What is Site Clustering and how does it affect Focus?**
+Github and other similar developer platforms can be very useful for this kind of collaborative work, but we understand that they are not for everyone. If you've created something you really think would be better of shared with others, please get in contact via the [contact page](https://www.mojeek.com/about/contact) or [Community](https://community.mojeek.com/).
+
+**What is Site Clustering and how does it affect Focus?**  
+
 Site Clustering refers to the grouping of results from the same host in order to create a greater variety of websites in results. In a regular Mojeek web search, hosts are clustered; when using Focus, clustering is off by default. You can modify how much or little clustering happens by changing settings in your Focus Dashboard. 
 
 <img src="https://github.com/PrivacyDingus/focus-templates/blob/main/assets/result_clustering.png">
@@ -23,6 +27,7 @@ Site Clustering refers to the grouping of results from the same host in order to
 Your Dashboard clustering settings will not be carried across to other users, so please bear this in mind when submitting.
 
 **Can I use Focus like !bangs?**
+
 There is not currently a way to do this through Mojeek, but with both Gecko (Firefox, LibreWolf, Mullvad) and Chromium (Chrome, Brave, Vivaldi) browsers you can add *keywords* for searches, which allow for a key press, or series of key presses, to trigger the use of a specific search engine. You can use this functionality with Focus, and this is how some people have told us they've incorporated Focus engines into their setup. You can also use the *Search bar* option in your [Focus Dashboard](https://www.mojeek.com/focus/dashboard) to have your Focus engines appear on both the homepage and search engine results page in the bar itself. 
 
 <img src="https://github.com/PrivacyDingus/focus-templates/blob/main/assets/focus_search_bar.png">
