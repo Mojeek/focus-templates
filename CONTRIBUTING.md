@@ -78,13 +78,16 @@ This text can now be used to raise an Issue to submit your Focus, you can find t
 ```i=thesaurus.com```  
 
 ## Icons
-A Focus Template will display like the ones below, and so your submission is easier to add if it has an icon with it. 
+A Focus Template will display like the ones below, and so your submission is easier to add if it has an icon with it.
 
-<img src="https://github.com/PrivacyDingus/focus-templates/blob/main/assets/default_templates.png">
+<img src="./assets/default_templates.png">
 
-These icons are best as single-colour 16x16 svg files, if this is not possible then please get in touch via our [Contact Page](https://www.mojeek.com/about/contact), [Community](https://community.mojeek.com/) or flag this in your Issue. You can also use websites like [svgrepo](https://www.svgrepo.com/) to find commercial-friendly and royalty free icons, use the *monochrome* search option to take out icons which might display badly when added to the templates. 
+These icons are best as single-colour 16x16 svg files, if this is not possible then please get in touch via our [Contact Page](https://www.mojeek.com/about/contact), [Community](https://com>
 
-If the Focus you're creating would suit an icon that is already in this repo, then grab the name of it from the [icons folder](https://github.com/PrivacyDingus/focus-templates/blob/main/icons) and use that when you submit your issue.
+**Please including a link to the svg or image file so we can check its license.** You can learn more about licenses on our [Image Licenses](https://www.mojeek.com/support/search/images/lice>
+
+If the Focus you're creating would suit an icon that is already in this repo, then grab the name of it from the [icons folder](./icons) and use that when you submit your issue.
+
 
 ## Editing a Focus
 Through using a template you might find a way that it could be improved, through a better description and title, or through adding in more inclusions or exclusions. For example, if your usage of a template consistently returned an irrelevant subdomain, then you might want to help out by proposing a change which excludes this. 
