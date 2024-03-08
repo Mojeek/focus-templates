@@ -82,9 +82,9 @@ A Focus Template will display like the ones below, and so your submission is eas
 
 <img src="./assets/default_templates.png">
 
-These icons are best as single-colour 16x16 svg files, if this is not possible then please get in touch via our [Contact Page](https://www.mojeek.com/about/contact) or [Community](https://community.mojeek.com/). 
+These icons are best as single-colour 16x16 svg files, if this is not possible then please get in touch via our [Contact Page](https://www.mojeek.com/about/contact), [Community](https://community.mojeek.com/), or flag this in your Issue. 
 
-**Please including a link to the svg or image file so we can check its license.** You can learn more about licenses on our [Image Licenses](https://www.mojeek.com/support/search/images/licenses.html).
+You can use websites like [svgrepo](https://www.svgrepo.com/) to find commercial-friendly and royalty free icons, use the *monochrome* search option to take out icons which might display badly when added to the templates. **Please include a link to the svg or image file so we can check its license.** You can learn more about licenses on our [Image Licenses](https://www.mojeek.com/support/search/images/licenses.html).
 
 If the Focus you're creating would suit an icon that is already in this repo, then grab the name of it from the [icons folder](./icons) and use that when you submit your issue.
 
