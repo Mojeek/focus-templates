@@ -1,0 +1,18 @@
+# title: TechNews
+# description: Tech news search
+# author: bbbhltz
+# icon: technology
+
+i=www.theverge.com
+i=arstechnica.com
+i=www.theregister.com
+i=www.phoronix.com
+i=www.engadget.com
+i=slashdot.org
+i=www.bleepingcomputer.com
+i=www.techdirt.com
+i=tldr.tech
+i=lobste.rs
+i=news.itsfoss.com
+i=themarkup.org
+i=news.ycombinator.com
