@@ -1,0 +1,17 @@
+# title: Encyclopedias
+# description: English Language General Encyclopedias: curated list of Active English Language pedias from Wikipedia: https://en.wikipedia.org/wiki/List_of_online_encyclopedias
+#              plus those found on encycloreader.org which is not included; which are: encycloreader.org,rationalwiki.org,handwiki.org
+# author: ColinHayhurst
+# icon: default
+
+i=www.britannica.com
+i=en.citizendium.org
+i=www.conservapedia.com
+i=www.encyclopedia.com
+i=encycloreader.org
+i=everything2.com
+i=handwiki.org
+i=rationalwiki.org
+i=scholarpedia.org
+i=encyclopedia2.thefreedictionary.com
+i=en.wikipedia.org
