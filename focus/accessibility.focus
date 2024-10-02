@@ -1,7 +1,7 @@
 # title: Accessibility
-# description:  Digital Accessibility (A11y) sites
-# author: Joe Devon
-# icon: default
+# description: Digital Accessibility Search
+# author: Joe Devon, Mojeek, Mojeek from Tim Dixon
+# icon: accessibility
 
 i=.accessible-social.com
 i=.accessibility.day
@@ -14,9 +14,6 @@ i=.lflegal.com
 i=.levelaccess.com
 i=.tpgi.com
 i=w3.org
-
-# author: Mojeek
-
 i=.accessibility.blog.gov.uk
 i=.accessibility.voxmedia.com
 i=.accessibilityoz.com
@@ -45,9 +42,6 @@ i=.usablenet.com
 i=.webaim.org
 i=.webaxe.org
 i=.yatil.net
-
-# author: Mojeek from Tim Dixon
-
 i=.a11y-automation.dev
 i=.a11y-collective.com
 i=.accessible.org
