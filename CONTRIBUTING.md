@@ -4,7 +4,7 @@ To submit a Focus you can either open an Issue, for which there will be a set of
 
 ### The following items will be required in order to submit a Focus:
 - a suggested name for the Focus, we will not be able to use the same name twice
-- a suggested description for the Focus i.e. *Dictionary search, Tech Blogs, No Pinterest*
+- a suggested description for the Focus i.e. *Dictionary search, Tech Blogs, No Pinterest*, please keep this short (fewer than 30 characters) so that it fits within the user interface
 - a set of inclusions, sites that will be included in the Focus
 - any exclusions (optional) which might be specific subdomains i.e. search ```.twitter.com``` but not ```ads.twitter.com```
 - a link to, or attachment of, an icon - preferably an svg file
