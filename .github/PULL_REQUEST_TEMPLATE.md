@@ -1,7 +1,4 @@
----
-
-name: [ADD FOCUS] - 
-about: This is a checklist for adding or amending a Focus via PR
+*Description of PR*
 
 ---
 
