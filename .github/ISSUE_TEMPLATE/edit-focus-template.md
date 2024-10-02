@@ -13,7 +13,7 @@ assignees: ''
 ### Edits:
 *delete as a appropriate*
 **title:** *suggest a new name for this Focus*
-**description:** *suggest a new description for this Focus*
+**description:** *suggest a new description for this Focus, please keep it below 30 characters*
 
 *remove these*
 <Replace this text with your i= and e=, one per line>
