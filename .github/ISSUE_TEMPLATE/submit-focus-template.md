@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **# title:** *suggest a name for your Focus*
-**# description:** *suggest a description for your Focus*
+**# description:** *suggest a description for your Focus, please keep it below 30 characters*
 **# author:** *attribute your Focus to a handle or group*
 **# icon:** *link the .svg or other icon file for your Focus*
 
