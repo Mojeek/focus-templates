@@ -1,11 +1,8 @@
 # title: Energy
-# description: Information about energy sources for industrial and domestic power. eg solar, wind, nuclear, coal, oil, gas and hydro
+# description: Energy Source Search
 # author: ColinHayhurst
 # icon: energy
 
-# Currently 81 sites in total
-
-# 14 Websites Solely or Largely Focused on Energy Trends, Usage, and Innovations
 i=.eia.gov
 i=.enerdata.net
 i=.energy-central.com
@@ -20,9 +17,6 @@ i=.power-eng.com
 i=.renewableenergymagazine.com
 i=.theenergymix.com
 i=.windpowerengineering.com
-
-# 23 Bloggers Who Write Extensively About Energy Trends, Usage, and Innovations
-
 i=.arcenergyinstitute.com
 i=.artberman.com
 i=.bryanleyland.co.nz
@@ -46,9 +40,6 @@ i=.rrapier.com
 i=.theelectric.co
 i=.volts.wtf
 i=.zero.princeton.edu
-
-# 22 News Outlets Specializing in Energy
-
 i=.argusmedia.com
 i=.about.bnef.com
 i=.cleantechnica.com
@@ -71,9 +62,6 @@ i=.rechargenews.com
 i=.renewableenergyworld.com
 i=.rigzone.com
 i=.windpowermonthly.com
-
-# 22 International organisations
-
 i=.cigre.org
 i=.cleancookingalliance.org
 i=.energycharter.org
