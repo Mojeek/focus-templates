@@ -1,0 +1,27 @@
+# title: Texas
+# description: State of Texas websites
+# author: Colin Hayhurst
+# icon: texas
+
+# state
+i=.texas.gov
+i=.tx.us
+i=.txcourts.gov
+i=.txdot.gov
+
+# cities
+i=arlingtontx.gov
+i=austintexas.gov
+i=corpuschristitexas.gov
+i=dallas.gov
+i=elpasotexas.gov
+i=fortworthtexas.gov
+i=garlandtx.gov
+i=grandprairietexas.gov
+i=houstontx.gov
+i=irvingtx.gov
+i=laredo.gov
+i=mesacitorchtx.gov
+i=pasadena-tx.gov
+i=plano.gov
+i=sanantonio.gov
