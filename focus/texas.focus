@@ -1,0 +1,30 @@
+# title: Texas
+# description: State of Texas websites
+# author: Colin Hayhurst
+# icon: texas
+
+# state
+i=.texas.gov
+i=.tx.us
+i=.txcourts.gov
+i=.txdot.gov
+
+# cities, population in decreasing order
+i=.houstontx.gov
+i=.sanantonio.gov
+i=.dallascityhall.com
+i=.austintexas.gov
+i=.fortworthtexas.gov
+i=.elpasotexas.gov
+i=.arlingtontx.gov
+i=.cctexas.com
+i=.plano.gov
+i=.cityoflaredo.com
+# lubbock is a sub of .tx.us
+i=.garlandtx.gov
+i=.cityofirving.org
+i=.gptx.org
+i=.amarillo.gov
+i=.mckinneytexas.org
+i=.killeentexas.gov
+i=.pasadenatx.gov
