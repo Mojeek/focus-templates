@@ -3,13 +3,10 @@
 # author: ColinHayhurst
 # icon: texas
 
-# state
 i=.texas.gov
 i=.tx.us
 i=.txcourts.gov
 i=.txdot.gov
-
-# cities, population in decreasing order
 i=.houstontx.gov
 i=.sanantonio.gov
 i=.dallascityhall.com
@@ -20,7 +17,6 @@ i=.arlingtontx.gov
 i=.cctexas.com
 i=.plano.gov
 i=.cityoflaredo.com
-# lubbock is a sub of .tx.us
 i=.garlandtx.gov
 i=.cityofirving.org
 i=.gptx.org
