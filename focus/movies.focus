@@ -1,0 +1,28 @@
+# title: Movies
+# description: Websites focussed on movie content and commentary, in English
+# author: ColinHayhurst
+# icon: default
+
+i=.imdb.com
+i=.rottentomatoes.com
+i=.themoviedb.org
+i=.ew.com
+i=.metacritic.com
+i=.vulture.com
+i=.tcm.com
+i=.netflix.com
+i=.filmaffinity.com
+i=.letterboxd.com
+i=.cinemablend.com
+i=.screenrant.com
+i=.deadline.com
+i=.indiewire.com
+i=.fandango.com
+i=.rogerebert.com
+i=.thewrap.com
+i=.slashfilm.com
+i=.collider.com
+i=.empireonline.com
+i=.decider.com.com
+i=.filmthreat.com
+i=.chillopedia.com
